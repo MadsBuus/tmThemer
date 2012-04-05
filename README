@@ -1,1 +1,2 @@
 See themeBuilder.rb for a complete example
+ try running: ruby themeBuilder.rb > ~/path/to/your/newtheme.tmTheme
