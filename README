@@ -1,2 +1,5 @@
-See themeBuilder.rb for a complete example
- try running: ruby themeBuilder.rb > ~/path/to/your/newtheme.tmTheme
+Use bundler to install dependencies
+  bundle install
+
+See themeBuilder.rb for a complete example. Run
+  ruby themeBuilder.rb > ~/path/to/your/fancy_new_theme.tmTheme
